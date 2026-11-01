@@ -1,6 +1,7 @@
 ## **Heya! This is DragonSkies, the artist behind Dragonatro.**
 
-<img width="71" height="95" alt="Joker" src="https://github.com/user-attachments/assets/c1b00d76-fee1-4afb-ad3a-c103001e5461" /> <img width="71" height="95" alt="Sock n Buskin" src="https://github.com/user-attachments/assets/793c01b4-e0c6-41eb-9e75-5218e69a49cc" /><img width="71" height="95" alt="Lusty Joker" src="https://github.com/user-attachments/assets/68ec1d97-0dbf-42e1-84f3-41294845b35a" /><img width="71" height="95" alt="Gluttonous Joker" src="https://github.com/user-attachments/assets/1ff7a4d6-5928-4229-99b8-d403b8d4d963" /><img width="71" height="95" alt="Misprint" src="https://github.com/user-attachments/assets/eaf63415-8a05-4078-931e-1b338d6c2c40" />
+<img width="71" height="95" alt="Joker" src="https://github.com/user-attachments/assets/c1b00d76-fee1-4afb-ad3a-c103001e5461" /> <img width="71" height="95" alt="Sock n Buskin" src="https://github.com/user-attachments/assets/793c01b4-e0c6-41eb-9e75-5218e69a49cc" /><img width="71" height="95" alt="Baron" src="https://github.com/user-attachments/assets/5f667064-e8d3-4c9a-b6bd-1cc551104bea" />
+<img width="71" height="95" alt="Gluttonous Joker" src="https://github.com/user-attachments/assets/1ff7a4d6-5928-4229-99b8-d403b8d4d963" /><img width="71" height="95" alt="Misprint" src="https://github.com/user-attachments/assets/eaf63415-8a05-4078-931e-1b338d6c2c40" />
 
 
 
