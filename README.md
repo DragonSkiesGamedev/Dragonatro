@@ -22,6 +22,6 @@ This mod requires Lovely and SteamModded to run correctly. I haven't tested whic
 
 ## Credits
 
-Created using Virtualized's Custom Reskin Studio.
+Created using [Virtualized's Custom Reskin Studio](https://new.balatromp.com/reskin).
 
 I'm currently the only artistic contributor to this repository, and may add more or less depending on my ever-fluctuating schedule. I don't expect support to be immediately all that helpful, as I'm not familiar with the github workflow. However, as I learn I expect to be able to help more with installation and support.
