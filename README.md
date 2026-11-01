@@ -14,7 +14,7 @@ Dragonatro is a cosmetic mod for Balatro that **replaces Balatro's default art w
 
 ## Installation Instructions
 
-To install Dragonatro, begin by creating a file named Dragonatro within Balatro's mods directory. Afterwards, extract the contents of the enclosed .zip file into the folder.
+To install Dragonatro, begin by creating a file named Dragonatro within Balatro's mods directory. Afterwards, download the [Latest Release](https://github.com/DragonSkiesGamedev/Dragonatro/releases) and extract its .zip file into the folder.
 
 ## Dependencies
 
